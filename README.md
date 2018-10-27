@@ -1,6 +1,7 @@
 # Dream Plus Theme for Hugo
 
 ![Dream Plus Theme](https://github.com/UtkarshVerma/hugo-dream-plus/blob/master/images/original.png)
+<html><hr/><html>
 This theme is an upgraded version of the [Dream Theme](https://github.com/g1eny0ung/hugo-theme-dream) by [Yue Yang](https://github.com/g1eny0ung) and contains tons of new features such as:
 
 * "Card" and "Post" views for the home page
@@ -33,6 +34,7 @@ This project adheres to the Contributor Covenant [code of conduct](/CODE_OF_COND
 
 ## Installation
 The theme can be installed by running the following commands inside your **Hugo website** folder.
+
 ```shell
 cd themes
 git submodule add https://github.com/UtkarshVerma/hugo-dream-plus dream-plus
