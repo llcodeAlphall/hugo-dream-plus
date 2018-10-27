@@ -1,6 +1,6 @@
 # Dream Plus Theme for Hugo
 
-![Dream Plus Theme](https://github.com/UtkarshVerma/hugo-dream-plus/blob/master/images/original.png)
+![Dream Plus Theme](https://cdn.pbrd.co/images/HKpz7eAs.png)
 <html><hr/><html>
 This theme is an upgraded version of the [Dream Theme](https://github.com/g1eny0ung/hugo-theme-dream) by [Yue Yang](https://github.com/g1eny0ung) and contains tons of new features such as:
 
