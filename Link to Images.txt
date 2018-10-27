@@ -1,0 +1,3 @@
+original.png : https://cdn.pbrd.co/images/HKpz7eAs.png
+screenshot.png : https://cdn.pbrd.co/images/HKpzEhhe.png
+tn.png : https://cdn.pbrd.co/images/HKpAcVl.png
